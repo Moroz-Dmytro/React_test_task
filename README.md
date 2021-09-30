@@ -1,7 +1,7 @@
 # Project Title
 Test task
 
-- [DEMO LINK](https://Moroz-Dmytro.github.io/React_test-task/)
+- [DEMO LINK](https://Moroz-Dmytro.github.io/React_test_task/)
 
 ## Description
 
