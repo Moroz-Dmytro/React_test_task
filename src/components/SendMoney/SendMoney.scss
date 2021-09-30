@@ -1,0 +1,21 @@
+.sendMoney {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+  text-decoration: none;
+
+  &__img {
+    filter: invert(37%) sepia(62%) saturate(4081%) hue-rotate(324deg) brightness(101%) contrast(98%);
+  }
+
+  &__text {
+    margin-left: 14px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.374px;
+    color: #262626;
+  }
+}
