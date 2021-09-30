@@ -1,9 +1,20 @@
-# React TypeScript Starter Pack
+# Project Title
+Test task
 
-To use this template click `Use this template`
+- [DEMO LINK](https://Moroz-Dmytro.github.io/React_test-task/)
 
-### Available Scripts
+## Description
 
-`Deploy` - available to deploy your application to gh-pages
+This is a landing page on React.
+Here I've used React(Hooks, Router), TypeScript, SCSS and other technologies
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+
+### Dependencies
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
+
+
+### Installing
+* Fork and clone this repository
+* Run `npm install` in your terminal
+* Run `npm start`
