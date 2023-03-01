@@ -1,8 +1,6 @@
 # Project Title
 Test task
 
-- [DEMO LINK](https://Moroz-Dmytro.github.io/React_test_task/)
-
 ## Description
 
 This is a landing page on React.
